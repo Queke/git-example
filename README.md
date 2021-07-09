@@ -11,3 +11,5 @@
 10. git checkout master
 11. git merge
 12. git brach -d rama-heroes
+13. git push
+14. git commit -am 
