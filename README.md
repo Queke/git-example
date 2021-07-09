@@ -5,3 +5,5 @@
 *  git reset 
 3- git commit -m
 5- git checkout -- .
+7- git commit -- amend
+8- git checkout -b rama-heroes
